@@ -1,0 +1,24 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    # Daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Pull latest blog posts from irfanmiral.com
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://irfanmiral.com/rss.xml'
+          max_post_count: 5
+          template: '- [$title]($url) — $date$newline'
+          date_format: 'mmm dd, yyyy'
+          tag_post_pre_newline: true
