@@ -106,10 +106,10 @@ Open to remote DevOps / SRE contracts and consulting. Reach out via
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Questions I Ask Before Recommending a VPS Provider](https://irfanmiral.com/blog/questions-i-ask-before-recommending-a-vps-provider) — Dec 23, 2026
-- [Self-Hosting Nextcloud: What I Set Up Differently From the Defaults](https://irfanmiral.com/blog/self-hosting-nextcloud) — Dec 09, 2026
-- [Why ModSecurity Goes on Every Client Server by Default](https://irfanmiral.com/blog/why-modsecurity-goes-on-every-client-server-by-default) — Nov 25, 2026
-- [Is SSH 2FA Worth the Hassle?](https://irfanmiral.com/blog/is-ssh-2fa-worth-the-hassle) — Nov 11, 2026
-- [Log Management on a Single Server](https://irfanmiral.com/blog/log-management-on-a-single-server) — Oct 28, 2026
+- [Relocating to Munich on Germany&#39;s Opportunity Card](https://irfanmiral.com/blog/relocating-to-munich-opportunity-card) — Aug 15, 2026
+- [Questions I Ask Before Recommending a VPS Provider](https://irfanmiral.com/blog/questions-i-ask-before-recommending-a-vps-provider) — Aug 11, 2026
+- [Self-Hosting Nextcloud: What I Set Up Differently From the Defaults](https://irfanmiral.com/blog/self-hosting-nextcloud) — Aug 04, 2026
+- [Why ModSecurity Goes on Every Client Server by Default](https://irfanmiral.com/blog/why-modsecurity-goes-on-every-client-server-by-default) — Jul 28, 2026
+- [Redis as a Cache vs Redis as a Database](https://irfanmiral.com/blog/redis-as-a-cache-vs-redis-as-a-database) — Jul 22, 2026
 
 <!-- BLOG-POST-LIST:END -->
